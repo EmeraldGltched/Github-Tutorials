@@ -24,6 +24,11 @@ body {
   background: rgb(75, 75, 75);
   color: rgb(200, 200, 200);
   padding: 15px;
+  display: block;
+}
+
+.tutorial-title {
+  text-align: center;
 }
 
 .small-text {
