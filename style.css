@@ -17,13 +17,13 @@ body {
 }
 
 .tutorial-box {
-  margin-top: 5px;
+  margin-top: 10px;
   margin-left: 7px;
   margin-right: 7px;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
   background: rgb(75, 75, 75);
   color: rgb(200, 200, 200);
-  padding: 15px;
+  padding: 10px;
   display: block;
 }
 
