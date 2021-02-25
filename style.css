@@ -14,21 +14,12 @@ body {
   margin-bottom: 5px;
   color: rgb(200, 200, 200);
   padding: 1px;
+  text-style: none;
 }
 
 .tutorial-box {
-  margin-top: 10px;
-  margin-left: 7px;
-  margin-right: 7px;
-  margin-bottom: 10px;
-  background: rgb(75, 75, 75);
-  color: rgb(200, 200, 200);
+  background: rgb(60, 60, 60);
   padding: 10px;
-  display: block;
-}
-
-.tutorial-title {
-  text-align: center;
 }
 
 .small-text {
