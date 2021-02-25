@@ -25,3 +25,7 @@ body {
   color: rgb(200, 200, 200);
   padding: 15px;
 }
+
+.small-text {
+  font-size: 2px;
+}
