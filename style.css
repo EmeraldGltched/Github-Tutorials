@@ -20,6 +20,7 @@ body {
 .tutorial-box {
   background: rgb(60, 60, 60);
   padding: 10px;
+  margin: 5px;
 }
 
 .tutorial-title {
