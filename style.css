@@ -18,9 +18,12 @@ body {
 }
 
 .tutorial-box {
-  list-style-type: none;
   background: rgb(60, 60, 60);
   padding: 10px;
+}
+
+.tutorial-content {
+  list-style-type: none;
 }
 
 .small-text {
