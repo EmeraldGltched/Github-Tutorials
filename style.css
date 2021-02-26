@@ -33,6 +33,13 @@ body {
   padding: 1px;
 }
 
+.tutorial-image-container {
+  list-style-type: none;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .small-text {
   font-size: 2px;
 }
