@@ -22,8 +22,13 @@ body {
   padding: 10px;
 }
 
+.tutorial-title {
+  text-align: center;
+}
+
 .tutorial-content {
   list-style-type: none;
+  padding: 1px;
 }
 
 .small-text {
