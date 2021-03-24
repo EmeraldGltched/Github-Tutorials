@@ -29,6 +29,11 @@ body {
   margin-bottom: 0px;
 }
 
+.tutorial-subtitle {
+  text-align: center;
+  margin-top: 0px;
+}
+
 .tutorial-content {
   list-style-type: none;
   padding: 1px;
